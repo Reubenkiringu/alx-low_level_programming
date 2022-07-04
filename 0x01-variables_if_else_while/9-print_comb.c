@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - prints all posssible combinations of single-digit numbers
  * Return: Always 0 (Success)
