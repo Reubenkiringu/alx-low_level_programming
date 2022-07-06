@@ -4,7 +4,7 @@
  * main - prints putchar
  * Return: always 0
  */
-int amin(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -14,7 +14,7 @@ int amin(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	-putchar9('\n');
+	_putchar('\n');
 
 	return (0);
 }
