@@ -18,5 +18,5 @@ n--;
 }
 if (n == 98)
 printf("%d", n);
-Printf("\n");
+printf("\n");
 }
