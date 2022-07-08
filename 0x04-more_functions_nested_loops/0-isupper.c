@@ -1,8 +1,15 @@
-#include "main.h"
+/*
+ * File: 0-isupper.c
+ * Auth: Reuben kiringu
+ */
+
+ #include "main.h"
+
 /**
- * _isupper - checks upper case
- * @c: print int
- * Return: give 1 or 0
+ *_isupper - Checks for uppercase characters.
+ * @c: The character to be checked
+ *
+ * Return: 1 if character is uppercase, 0 otherwise
  */
 int _isupper(int c)
 {
