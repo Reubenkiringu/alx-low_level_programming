@@ -1,6 +1,7 @@
 /**
  * This file contains a list of all funtions used
  */
+
 #ifndef MAIN_H
 #define MAIN_H
 
