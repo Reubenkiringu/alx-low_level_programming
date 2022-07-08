@@ -1,5 +1,11 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+/**
+ * This file contains a list of all funtions used
+ */
+
+#ifndef _MAIN_H
+#define _MAIN_H
+
+#include <stdio.h>
 
 int _isupper(int c);
 int _isdigit(int c);
@@ -14,4 +20,4 @@ void print_square(int size);
 void print triangle(int size);
 void print_numbers(int n);
 
-#endif
+#endif /*MAIN_H*/
