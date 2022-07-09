@@ -3,7 +3,7 @@
 /**
  * print_triangle - check
  * @size : integer type
- * Return: void
+ * Retutn: void
  */
 void print_triangle(int size)
 {
