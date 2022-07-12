@@ -4,8 +4,10 @@
  * @str: pointer to the string to point
  * Return: void
  */
+
 void _puts(char *str)
-{ int i = 0;
+{
+	int i = 0;
 
 	while (str[i])
 	{
