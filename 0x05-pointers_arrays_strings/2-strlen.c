@@ -2,7 +2,7 @@
 
 /**
  * _strlen - finds the length of the string
- * @str: pointer for the stringto be checked
+ * @s: pointer for the stringto be checked
  * Return: void
  */
 
