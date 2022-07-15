@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * desc: 102-magic.c
+ * Description: '102-magic.c'
  *
  * Return: Always 0 (Success)
  */
