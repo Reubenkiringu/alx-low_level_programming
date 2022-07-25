@@ -2,12 +2,12 @@
 #include <stdlib.h>
 
 /**
- * main - print the minimum number of coins tomake change
+ * main - print the minimum number of coins to make change
  *
- * @argc: stores numbe of command line arguments passed
+ * @argc: stores number of command line arguments passed
  * @argv: array of character pointers listing all the arguments
  *
- * Return:: 0if succes
+ * Return:: 0 if succes
  */
 int main(int argc, char *argv[])
 {
